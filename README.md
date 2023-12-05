@@ -22,6 +22,19 @@ I'm always eager to lend a hand where I can. I firmly believe in the value of co
 
 If you have a project in mind or need help with something, feel free to reach out! You can find me on LinkedIn. Simply Google my name and all my contact info will be right there. Cheers! 🎉
 
+
+<p align="center" dir="auto">
+    <a href="https://www.linkedin.com/in/suzukidavid" rel="nofollow"><img src="https://camo.githubusercontent.com/e7aa428f03f8b182b658a4e0ab3ee4bd8141b7119ff54db55cbaff594370365d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f6c696e6b6564696e2e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/linkedin.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
+    &nbsp;&nbsp;
+    <a href="mailto:davidsuzuki51@gmail.com"><img src="https://camo.githubusercontent.com/87a833daf96ce2e80b1b95f25134c82e688f0f8d8233162ed4ad4dd920ab1694/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
+    &nbsp;&nbsp;
+     <a href="https://linkpage.bio/suzukidavid" rel="nofollow"><img src="https://github.com/suzukidavid/suzukidavid/raw/master/icons/qr1.png" alt="qr" height="100" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
+    &nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/wDpwy4t21eVg" rel="nofollow"><img src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/skype.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/suzukidavid" rel="nofollow"><img src="https://camo.githubusercontent.com/0e322093be9a72e177af4083f108faa8a0d981f67ce938a8524fe98351fc2003/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
+  </p>
+  
 [![](https://visitcount.itsvg.in/api?id=bimashazaman&label=Profile%20Views%20Per%20Month&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
@@ -36,18 +49,6 @@ If you have a project in mind or need help with something, feel free to reach ou
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<p align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/suzukidavid" rel="nofollow"><img src="https://camo.githubusercontent.com/e7aa428f03f8b182b658a4e0ab3ee4bd8141b7119ff54db55cbaff594370365d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f6c696e6b6564696e2e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/linkedin.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="mailto:davidsuzuki51@gmail.com"><img src="https://camo.githubusercontent.com/87a833daf96ce2e80b1b95f25134c82e688f0f8d8233162ed4ad4dd920ab1694/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-     <a href="https://linkpage.bio/suzukidavid" rel="nofollow"><img src="https://github.com/suzukidavid/suzukidavid/raw/master/icons/qr1.png" alt="qr" height="100" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/wDpwy4t21eVg" rel="nofollow"><img src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/skype.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/suzukidavid" rel="nofollow"><img src="https://camo.githubusercontent.com/0e322093be9a72e177af4083f108faa8a0d981f67ce938a8524fe98351fc2003/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-  </p>
 
 
 
