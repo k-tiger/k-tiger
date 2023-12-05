@@ -10,6 +10,8 @@
 
 Hello there! I'm a software developer deeply passionate about building amazing projects. 💻
 
+React, React Native, Next, Node, Python, Laravel, MongoDB and MySQL are my major skills.
+
 When I'm not coding, you might catch me immersing myself in music. 🎵 It's one of my favorite ways to unwind and find inspiration.
 
 I take commitments very seriously and always strive to meet them with quality work. I believe in the power of keeping one's word.
