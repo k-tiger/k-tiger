@@ -43,18 +43,3 @@ If you have a project in mind or need help with something, feel free to reach ou
 
 
 <center>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=39&pause=1000&color=196209&width=435&lines=Nobody+can+stop+me!;To+Learn+Unlimited" alt="Typing SVG" /></a>
-  
-  </center>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=bimashazaman&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-|![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
-
-### Thanks for Visiting my GitHub Profile!
