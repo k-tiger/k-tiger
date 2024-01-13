@@ -1,220 +1,215 @@
-<h2>About Me:</h2>
-Hello there! I'm a software developer deeply passionate about building amazing
-projects. 💻 React, React Native, Next, Node, Python, Laravel, MongoDB and MySQL
-are my major skills. When I'm not coding, you might catch me immersing myself in
-music. 🎵 It's one of my favorite ways to unwind and find inspiration. I take
-commitments very seriously and always strive to meet them with quality work. I
-believe in the power of keeping one's word. My life can be summed up in a few
-simple actions: I eat, sleep, occasionally bust out a dance move, and code. And
-then repeat. 🍔💤💃👨‍💻 I'm always eager to lend a hand where I can. I firmly
-believe in the value of collaboration and helping others—it's how we grow and
-create fantastic things together. If you have a project in mind or need help
-with something, feel free to reach out! You can find me on LinkedIn. Simply
-Google my name and all my contact info will be right there. Cheers! 🎉
+# Senior React | React Native | Typescript | Javascript | Node.js | Python Developer
 
-<p align="center" dir="auto" style="margin-top: 20">
-<img class="cover-img__image relative w-full h-full object-cover" fetchpriority="high" data-embed-id="cover-image" alt="WEB DEVELOPMENT TRENDS TO WATCH IN 2024" data-nsfw-filter-status="sfw" style="margin: 20px; width: 50%; visibility: visible;" src="https://media.licdn.com/dms/image/D4E12AQGXZ3MdgJvtaA/article-cover_image-shrink_720_1280/0/1701867433157?e=2147483647&amp;v=beta&amp;t=4vo4z_z_N2G5oeVMYu-wAuCtqmVG59DctQpj_iAgTG8">
-</p>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+<br/>
+- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
+</div>
 
-
-  <a href="https://join.skype.com/invite/MpOSBGkUU4XE" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67"
-      width="60" data-canonical-src="https://img.icons8.com/color/2x/skype.png"
-      style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/k90fox" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/0e322093be9a72e177af4083f108faa8a0d981f67ce938a8524fe98351fc2003/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67"
-      width="60" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png"
-      style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-  &nbsp;&nbsp;
-  <a href="javascript:;" rel="nofollow"><img
-      src="https://camo.githubusercontent.com/e7aa428f03f8b182b658a4e0ab3ee4bd8141b7119ff54db55cbaff594370365d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f6c696e6b6564696e2e706e67"
-      width="60" data-canonical-src="https://img.icons8.com/fluency/2x/linkedin.png"
-      style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-  &nbsp;&nbsp;
-  <a href="javascript:;"><img
-      src="https://camo.githubusercontent.com/87a833daf96ce2e80b1b95f25134c82e688f0f8d8233162ed4ad4dd920ab1694/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67"
-      width="60" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png"
-      style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=bimashazaman&label=Profile%20Views%20Per%20Month&icon=1&pretty=false)](https://visitcount.itsvg.in)
-# 💻 Tech Stack:
-
+<h2>My stack :man_technologist:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-  <tbody>
-    <tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
       <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />React
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
       </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+   <tr>
       <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img
-            src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"
-            alt="icon" width="65" height="65"
-            data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" />
-        </a>
-        <br />Python
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+      <br>Nextjs
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br>Nestjs
       </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/js-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />JavaScript
       </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667"
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />C++
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/06187b72fe2f30427175d4aa9586942c65db4d83e7f026df0fb755c87d324e3a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/06187b72fe2f30427175d4aa9586942c65db4d83e7f026df0fb755c87d324e3a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"
-            alt="icon" width="65" height="65"
-            data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />Webpack
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" /></a>
-        <br />MySQL
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />TypeScript
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/e914c0e2dafdbf72f0a912f5620bf5048473024747e61323100770b0724ecd6e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img
-            alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/e914c0e2dafdbf72f0a912f5620bf5048473024747e61323100770b0724ecd6e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" /></a>
-        <br />AWS
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"
-            alt="icon" width="65" height="65"
-            data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />C#
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"><img
-            src="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667"
-            alt="icon" width="65" height="65"
-            data-canonical-src="https://techstack-generator.vercel.app/django-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />Django
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"><img
-            alt="icon" width="65" height="65"
-            data-canonical-src="https://techstack-generator.vercel.app/github-icon.svg"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" /></a>
-        <br />Github
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"><img
-            width="48" height="48" alt="Git" style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /></a>
-        <br />Git
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c"><img
-            width="48" height="48" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/c13b98c833933f68c7824fd047855dc5059276cb0ee54a743afe7a714bd23921/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" /></a>
-        <br />Laravel
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img
-            src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"
-            width="48" height="48" alt="HTML5" data-canonical-src="https://skillicons.dev/icons?i=html"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />HTML5
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"><img
-            src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"
-            width="48" height="48" alt="css" data-canonical-src="https://skillicons.dev/icons?i=css"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />CSS
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"><img
-            src="https://camo.githubusercontent.com/c2a1c48be1091ce6a771794bf0b3bc45b58e5ce1531810e48cea88a7bae4c121/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"
-            width="48" height="48" alt="bootstrap" data-canonical-src="https://skillicons.dev/icons?i=bootstrap"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />Bootstrap
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/90821127892b2ab8fed54a30b62e3875250c25b0ff2b0466eade956773d27126/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"><img
-            src="https://camo.githubusercontent.com/90821127892b2ab8fed54a30b62e3875250c25b0ff2b0466eade956773d27126/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"
-            width="48" height="48" alt="tailwind" data-canonical-src="https://skillicons.dev/icons?i=tailwind"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />Tailwind
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img
-            width="48" height="48" alt="jQuery" data-canonical-src="https://skillicons.dev/icons?i=jquery"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/92b57616aa8c824a491469633dc693341da362ae233bf03e0384cfb9a154ddcf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" /></a>
-        <br />jQuery
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/c0656fe26e0bd17784e371c880b6007a53afa88b8cc9e29f8d48f8b8c3ca5c95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"><img
-            src="https://camo.githubusercontent.com/c0656fe26e0bd17784e371c880b6007a53afa88b8cc9e29f8d48f8b8c3ca5c95/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"
-            width="48" height="48" alt="MongoDB" data-canonical-src="https://skillicons.dev/icons?i=mongodb"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw" /></a>
-        <br />MongoDB
-      </td>
-      <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow"
-          href="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"><img
-            width="48" height="48" alt="Nodejs" data-canonical-src="https://skillicons.dev/icons?i=nodejs"
-            style="max-width: 100%; visibility: visible" data-nsfw-filter-status="sfw"
-            src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" /></a>
-        <br />Nodejs
-      </td>
-
-      
-    </tr>
-  </tbody>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="StyledComponents" />
+      <br>StyledComp
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" />
+      <br>Expressjs
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+ </tr>
 </table>
+<br><br>
+</div>
+
+<h2>Github stats :bar_chart:</h2>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{whitehorse21}/count.svg" alt="whitehorse21 :: Visitor's Count" /></p>
+
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits' />
+</p>
+
+<p align="center">
+
+<!--
+<a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=whitehorse21&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/whitehorse21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=whitehorse21&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@whitehorse21's github-readme-stats"/></a>
+<a href="https://github.com/whitehorse21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=whitehorse21&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@whitehorse21's github-readme-streak-stats"/></a>
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@whitehorse21">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitehorse21&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="whitehorse21's activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehorse21&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="whitehorse21 :: Top Langs" />
+<a href="https://github.com/whitehorse21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=whitehorse21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@whitehorse21's trophy stats"/></a>
+</p>
+
+<h2>Contact me :postbox:</h2>
+<div>
+  <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://join.skype.com/invite/qWHqVMM1RVZz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/whitehorse199021" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
