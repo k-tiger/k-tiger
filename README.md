@@ -1,34 +1,3 @@
-<h2>About Me:</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-Hello there! I'm a software developer deeply passionate about building amazing projects. 💻
-
-React, React Native, Next, Node, Python, Laravel, MongoDB and MySQL are my major skills.
-
-When I'm not coding, you might catch me immersing myself in music. 🎵 It's one of my favorite ways to unwind and find inspiration.
-
-I take commitments very seriously and always strive to meet them with quality work. I believe in the power of keeping one's word.
-
-My life can be summed up in a few simple actions: I eat, sleep, occasionally bust out a dance move, and code. And then repeat. 🍔💤💃👨‍💻
-
-I'm always eager to lend a hand where I can. I firmly believe in the value of collaboration and helping others—it's how we grow and create fantastic things together.
-
-If you have a project in mind or need help with something, feel free to reach out! You can find me on LinkedIn. Simply Google my name and all my contact info will be right there. Cheers! 🎉
-
-
-<p align="center" dir="auto">
-    <a href="https://join.skype.com/invite/MpOSBGkUU4XE" rel="nofollow"><img src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/skype.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/k90fox" rel="nofollow"><img src="https://camo.githubusercontent.com/0e322093be9a72e177af4083f108faa8a0d981f67ce938a8524fe98351fc2003/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="60" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="javascript:;" rel="nofollow"><img src="https://camo.githubusercontent.com/e7aa428f03f8b182b658a4e0ab3ee4bd8141b7119ff54db55cbaff594370365d/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f6c696e6b6564696e2e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/linkedin.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-    &nbsp;&nbsp;
-    <a href="javascript:;"><img src="https://camo.githubusercontent.com/87a833daf96ce2e80b1b95f25134c82e688f0f8d8233162ed4ad4dd920ab1694/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="60" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%; visibility: visible;" data-nsfw-filter-status="sfw"></a>
-  </p>
-  
-[![](https://visitcount.itsvg.in/api?id=bimashazaman&label=Profile%20Views%20Per%20Month&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
