@@ -32,7 +32,6 @@ If you have a project in mind or need help with something, feel free to reach ou
 
 
 # 💻 Tech Stack:
-<div dir="auto">
 <table align="center">
   <tbody><tr>
     <td align="center" width="96">
@@ -191,7 +190,6 @@ If you have a project in mind or need help with something, feel free to reach ou
  </tr>
 </tbody></table>
 <br><br>
-</div>
 
 
 
