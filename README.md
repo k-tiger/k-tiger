@@ -12,9 +12,11 @@ create fantastic things together. If you have a project in mind or need help
 with something, feel free to reach out! You can find me on LinkedIn. Simply
 Google my name and all my contact info will be right there. Cheers! 🎉
 
-<img class="cover-img__image relative w-full h-full object-cover" fetchpriority="high" data-embed-id="cover-image" alt="WEB DEVELOPMENT TRENDS TO WATCH IN 2024" data-nsfw-filter-status="sfw" style="visibility: visible;" src="https://media.licdn.com/dms/image/D4E12AQGXZ3MdgJvtaA/article-cover_image-shrink_720_1280/0/1701867433157?e=2147483647&amp;v=beta&amp;t=4vo4z_z_N2G5oeVMYu-wAuCtqmVG59DctQpj_iAgTG8">
-
 <p align="center" dir="auto">
+<img class="cover-img__image relative w-full h-full object-cover" fetchpriority="high" data-embed-id="cover-image" alt="WEB DEVELOPMENT TRENDS TO WATCH IN 2024" data-nsfw-filter-status="sfw" style="max-width: 50%; visibility: visible;" src="https://media.licdn.com/dms/image/D4E12AQGXZ3MdgJvtaA/article-cover_image-shrink_720_1280/0/1701867433157?e=2147483647&amp;v=beta&amp;t=4vo4z_z_N2G5oeVMYu-wAuCtqmVG59DctQpj_iAgTG8">
+</p>
+
+
   <a href="https://join.skype.com/invite/MpOSBGkUU4XE" rel="nofollow"><img
       src="https://camo.githubusercontent.com/e91b2026169a53f2647d41e6a601d15db6d98e5d22ff2c49aa2c6ffbef7838cc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f736b7970652e706e67"
       width="60" data-canonical-src="https://img.icons8.com/color/2x/skype.png"
