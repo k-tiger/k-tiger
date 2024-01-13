@@ -13,7 +13,7 @@ with something, feel free to reach out! You can find me on LinkedIn. Simply
 Google my name and all my contact info will be right there. Cheers! 🎉
 
 <p align="center" dir="auto">
-<img class="cover-img__image relative w-full h-full object-cover" fetchpriority="high" data-embed-id="cover-image" alt="WEB DEVELOPMENT TRENDS TO WATCH IN 2024" data-nsfw-filter-status="sfw" style="width: 50%; visibility: visible;" src="https://media.licdn.com/dms/image/D4E12AQGXZ3MdgJvtaA/article-cover_image-shrink_720_1280/0/1701867433157?e=2147483647&amp;v=beta&amp;t=4vo4z_z_N2G5oeVMYu-wAuCtqmVG59DctQpj_iAgTG8">
+<img class="cover-img__image relative w-full h-full object-cover" fetchpriority="high" data-embed-id="cover-image" alt="WEB DEVELOPMENT TRENDS TO WATCH IN 2024" data-nsfw-filter-status="sfw" style="margin: 20px; width: 50%; visibility: visible;" src="https://media.licdn.com/dms/image/D4E12AQGXZ3MdgJvtaA/article-cover_image-shrink_720_1280/0/1701867433157?e=2147483647&amp;v=beta&amp;t=4vo4z_z_N2G5oeVMYu-wAuCtqmVG59DctQpj_iAgTG8">
 </p>
 
 
