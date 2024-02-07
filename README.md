@@ -9,13 +9,13 @@
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 </div>
 
-<h2>Contact me :postbox:</h2>
+<!-- <h2>Contact me :postbox:</h2>
 <div>
   <a href="https://t.me/k90fox"><i class="lab la-twitter"></i></a>
   <a href = "mailto:dev09fox@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://join.skype.com/invite/mIIw5ceFoWgs" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
   <a href="https://t.me/k90fox" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
+</div> --?
 
 <h2>My stack :man_technologist:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
